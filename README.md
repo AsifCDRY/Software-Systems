@@ -1,4 +1,4 @@
-# COE318
+# Software Systems
 This repository contains some projects I did in this course (Software Systems).
 
 The most notable project is the Blackjack game which simulates a normal blackjack game.
